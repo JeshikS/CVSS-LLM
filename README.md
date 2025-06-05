@@ -1,2 +1,3 @@
 # CVSS-LLM
-LLama LLM to automatically provide cvss score
+LLama LLM to automatically generate cvss score based on description and vulnerability type
+
